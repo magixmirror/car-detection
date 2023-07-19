@@ -1,6 +1,7 @@
 # Car Parking Space Detection App
 
-![ezgif com-optimize (2)](https://github.com/zsoltgeier/Car-parking-space-finder/assets/116493077/d5d7eb70-bc2e-4762-b354-d9a3be0f6799)
+![ezgif com-optimize (2)](https://github.com/zsoltgeier/Car-parking-space-finder/assets/116493077/0975a427-bb62-48e4-859f-8efbfa3876af)
+
 
 This Python app allows you to detect and monitor free or occupied car parking spaces from a top-view video footage of a parking lot. The app uses computer vision techniques to process the video and identify the occupancy status of each parking space in real-time.
 

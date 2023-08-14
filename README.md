@@ -35,7 +35,6 @@ pip install cvzone
 
      ```bash
      git clone https://github.com/zsoltgeier/car-parking-space-finder.git
-     cd car-parking-app
      ```
 
 2. **Replacing the demo video footage**:
